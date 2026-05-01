@@ -1,0 +1,14 @@
+#old{
+  text-decoration: line-through;
+}
+
+#new{
+  font-weight: bolder;
+  padding-left: 10px;
+}
+
+#price{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
